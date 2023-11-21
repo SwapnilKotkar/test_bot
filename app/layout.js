@@ -16,14 +16,14 @@ export default function RootLayout({ children }) {
 				<script
 					src="https://sandbox.karini.ai/chatbot-script.js"
 					data-id="karini_chatbot"
-					data-bot_name="Chatbot sandbox"
-					data-bot_avatar="https://cdn-icons-png.flaticon.com/512/4712/4712139.png"
-					data-description="ACME Enterprise Support Copilot"
-					data-welcome_message="Welcome to Enterprise Support!"
-					data-failure_message="There was an error"
-					data-apikey="KARINI_653fa72298cee389640966ec_f9af0447375c181612f3d3bff6b600e5d3b048d8a3f085f0d307d46a8075c349"
+					data-bot_name="copper QnA"
+					data-bot_avatar=""
+					data-description="question answering chatbot for copper assesment"
+					data-welcome_message="hi, how can I help you?"
+					data-failure_message="Sorry, I don't have knowledge regarding this"
+					data-apikey="KARINI_655c5a419d7a15c10d9d6047_f9af0447375c181612f3d3bff6b600e569bf5b6325d08e8ff13e265717646d17"
 					data-widget_size="normal"
-					data-theme_color="#7c3aed"
+					data-theme_color="#dc2626"
 					defer
 				></script>
 			</body>
